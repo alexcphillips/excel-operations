@@ -1,0 +1,10 @@
+services:
+  server:
+    environment:
+      - NODE_ENV=production
+    container_name: excel-server
+    image: excel-server
+    restart: always
+    build: .
+    ports:
+      - "3000:3000"
