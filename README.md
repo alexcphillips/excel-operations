@@ -1,2 +1,2 @@
 # excel-operations
-Store Excel file data in MongoDB and AWS S3
+Store Excel file data in MongoDB and AWS S3 Buckets
